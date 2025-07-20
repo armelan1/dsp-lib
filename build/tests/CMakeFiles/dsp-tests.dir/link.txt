@@ -1,3 +1,0 @@
-C:\qp\qtools\bin\cmake.exe -E rm -f CMakeFiles\dsp-tests.dir/objects.a
-C:\qp\qtools\MinGW32\bin\ar.exe qc CMakeFiles\dsp-tests.dir/objects.a @CMakeFiles\dsp-tests.dir\objects1.rsp
-C:\qp\qtools\MinGW32\bin\g++.exe -Wl,--whole-archive CMakeFiles\dsp-tests.dir/objects.a -Wl,--no-whole-archive -o ..\bin\dsp-tests.exe -Wl,--out-implib,..\lib\libdsp-tests.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\dsp-tests.dir\linkLibs.rsp
