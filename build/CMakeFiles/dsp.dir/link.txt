@@ -1,0 +1,2 @@
+C:\qp\qtools\MinGW32\bin\ar.exe qc lib\libdsp.a CMakeFiles/dsp.dir/src/moving_average.cpp.obj
+C:\qp\qtools\MinGW32\bin\ranlib.exe lib\libdsp.a
